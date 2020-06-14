@@ -1,3 +1,3 @@
 # Überschrift
 
-Etwas beschreibung: )
+Etwas Beschreibung: )
